@@ -13,8 +13,7 @@
     ```python
  this_is_lambda = lambda first, last: f'Цей код написав: {first} {last}'
 print("Це просто функція:", this_is_lambda)
-print("Це її виклик:", this_is_lambda('Максим', 'Проць')):
-pass
+print("Це її виклик:", this_is_lambda('Максим', 'Проць'))
 ```
 
 * результати виконання індивідуального завдання (якщо такі є);
